@@ -1,4 +1,8 @@
-# Finsweet Developer Starter
+# Commute Market Data
+
+Repository template from
+
+## Finsweet Developer Starter
 
 A starter template for both Client & Power projects.
 
