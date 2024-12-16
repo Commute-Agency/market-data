@@ -1,6 +1,6 @@
 {
   "name": "@commute/market-data",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A project to render market data using a javascript graphics library like ChartJS",
   "homepage": "https://github.com/Commute-Agency/market-data#readme",
   "license": "ISC",
