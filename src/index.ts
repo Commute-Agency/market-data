@@ -10,7 +10,7 @@ declare const Chart: any; // Declare Chart globally for TypeScript to avoid erro
 /**
  * Waits for the Chart.js library to load and initializes the charts.
  */
-function waitForChartJsAndInitialize(timeout = 5000, interval = 50): void {
+function waitForChartJsAndInitialize(timeout = 6000, interval = 50): void {
   const startTime = Date.now();
 
   const checkChartJs = () => {
